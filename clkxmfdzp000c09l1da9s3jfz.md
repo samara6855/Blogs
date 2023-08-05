@@ -1,10 +1,10 @@
 ---
-title: "Django vs Flask: A Comparative Analysis"
+title: "Django vs Flask: What to Choose"
 seoTitle: "Which is better? Django or Flask?"
 seoDescription: "Best Python framework, Django vs Flask, Flask, Django, Web development frameworks, which is best Python framework, easy framework in Python, Python, MongoDB"
 datePublished: Sat Aug 05 2023 06:15:46 GMT+0000 (Coordinated Universal Time)
 cuid: clkxmfdzp000c09l1da9s3jfz
-slug: django-vs-flask-a-comparative-analysis
+slug: django-vs-flask-what-to-choose
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691215957924/ed197398-f27a-4be3-9f11-c82bcbb506a9.png
 tags: django, flask
 
